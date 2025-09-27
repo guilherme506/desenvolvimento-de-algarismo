@@ -9,13 +9,13 @@ do(a) aluno(a) e se foi aprovado(a) ou reprovado(a)
 int main(){
     float nota1, nota2, nota3, media;
     char nome[255];
-    char sexo[2];
+    char sexo;
 
     printf("Digite o nome do aluno\n");
     scanf("%s,", &*nome);
 
     printf("Digite seu gêneco(F/M)\n");
-    scanf("%1s", &*sexo);
+    scanf(" %c", &sexo);
     
     printf("Digite a primeira nota\n");
     scanf("%f", &nota1);
