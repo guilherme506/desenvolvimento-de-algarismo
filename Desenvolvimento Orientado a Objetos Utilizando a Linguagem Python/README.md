@@ -15,11 +15,11 @@ A disciplina tem como objetivo introduzir e aprofundar os fundamentos da orienta
 .
 ├── README.md                  # Este arquivo
 ├── Aulas/       # local depositado as aulas
-        ├── estruturas_condicionais/  # Ensinado as instações dos requisitos
-        ├── estruturas_repeticao/     # Tecnicas de orientação a objeto
-        ├── funcoes/                  # encapsulamento de dados
-        ├── listas_e_dicionarios/    # String
-├── certificado/                 # Projetos práticos aplicando os conceitos
+        ├── Modulo1/  # Ensinado as instações dos requisitos
+        ├── Modulo2/     # Tecnicas de orientação a objeto
+        ├── Modulo3/                  # encapsulamento de dados
+        ├── Modulo4/    # String
+├── certificado/                 # Comprovante de conclução do curso
 
 
 - Linguagem de Programação: `Python` 
