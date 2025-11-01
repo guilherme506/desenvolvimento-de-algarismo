@@ -1,0 +1,3 @@
+String
+    Qualquer tipo de texto que está entre aspas simples ou aspas duplas
+    String Qualquer seqência de caracteres

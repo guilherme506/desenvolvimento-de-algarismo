@@ -1,0 +1,13 @@
+Encapsulamento de Dados
+    Utilização de estruturas sem a necessidade de conhecer como elas foram implementadas
+    Encapsulamento de dados torna-se essencial, pois envolve a proteção dos atributos ou métodos dde uma classe
+
+Modificadores de acesso
+    Public: É o mais comum entre os Modificadores. Ele permite acesso tanto de dentro, quanto de fora de uma classe. Sua implementação se dá por meio do uso do undeline'_' na frente do nome
+    Protected: Utilizando o Modificador protegido, somente suas classes e subclasses terão acesso ao atributo ou método.Para usa implementação adicione um underline "_" antes do nome 
+    Private: è o Modificador mais restrito desenvolvimento orientado a objetos. Ele permite que somente a a sua classe(onde foi definido) tenha acesso a um determinado atributo ou metodo.Para definir o metodo private adicionamos underline duplo"__" na frente do nome
+
+
+Métodos de Acesso(Get e Set)
+    Get: Sempre retornam valores. O metodo Get é utilizado para ler os valores internos do objeto e enviá-los como valor de retorno da função
+    Set: Recebem valores por parâmtros. Os metodos Set Recebem argumentos que serão atribuidos a membros internos do objeto

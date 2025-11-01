@@ -1,0 +1,14 @@
+Orientação a objetos na linguagem de python 
+    projetos desenvolvidos utilizando a Orientação a objetos são mais estáveis, de facíl manutenção e sua reutilização é mais simples
+tecnicas de otientação a objetos 
+    classes: definição do objeto. Conjunto de atributos e funções utilizado como modelo para criação dos objetos 
+    objetos: Intância de uma classe. Varíavel que possui todas as caracteristicas comum à classe, porém, com valores diferentes em seus atributos
+    Abstração: Acesso às utilidades da classe. Ação de utilizar mensagem para acessar os recursos de uma classe
+    Atributo: caracteristicas de classe: Os atributos são caracteristicas do elememto que a classe representa
+    Funções: Ações do objeto com retorno. Função nativa do python que retorno um valor declarado dentro da classe
+    Metodos: Ações do objeto. Função nativa do python que não possui retorno declarado dentro de uma classe
+    Excessão: Tratamento de erros; Controla o fluxo da execução durante um erro.
+    mensagem: Chamada a um atributo, método ou função 
+    Herança: SUper classe e Sub classe. Uma classe pode herdar atributos , metodos e/ou funções de outra
+    Encapsulamento: Nível de acesso. O Encapsulamento permite que os atributo sejam vistos somente nas classes onde foram declarados, definindo o nível de acesso de atributos, metodos ou funções
+    Polimorfismo: Sobrescrita. Escolher entre atributos, metodos e/ou funções que sobrescreveram ou que foram Sobrescritos
