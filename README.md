@@ -14,13 +14,12 @@ utilizando boas práticas de codificação e resolução de problemas computacio
 #### Estrutura do Repositório
 
 ```bash
-.
-├── README.md                  # Este arquivo
 ├── A1                         #Avaliação de final de semestre
 ├── Desenvolvimento orientado a objetos  # Curso do bradesco
 ├── listas                     # listas de exercicios 
-├── licensa                    # licensa para divulgação
-├── testy.py                  # Aréa designada para testes de desafios propostos em sala
+├── license                    # licensa para divulgação
+├── README.md                  # Este arquivo
+├── test.py                  # Aréa designada para testes de desafios propostos em sala
 
 
 - Linguagem de Programação: `Python` 
