@@ -16,14 +16,13 @@ utilizando boas práticas de codificação e resolução de problemas computacio
 ```bash
 .
 ├── README.md                  # Este arquivo
-├── algoritmos_basicos/       # Exercícios iniciais de lógica e estrutura sequencial
-├── estruturas_condicionais/  # Exercícios com if, else, elif
-├── estruturas_repeticao/     # Exercícios com while, for, etc.
-├── funcoes/                  # Atividades com modularização
-├── listas_e_dicionarios/    # Exercícios com listas, vetores, dicionários
-├── projetos/                 # Projetos práticos aplicando os conceitos
-└── docs/                     # Materiais de apoio e anotações Tecnologias e Linguagens Utilizadas
+├── A1                         #Avaliação de final de semestre
+├── Desenvolvimento orientado a objetos  # Curso do bradesco
+├── listas                     # listas de exercicios 
+├── licensa                    # licensa para divulgação
+├── testy.py                  # Aréa designada para testes de desafios propostos em sala
 
-- Linguagem de Programação: `Python` *(ou outra linguagem, dependendo do curso)*
-- Editor de Código: VS Code / PyCharm / Jupyter / Outros
+
+- Linguagem de Programação: `Python` 
+- Editor de Código: VS Code 
 - Git e GitHub para versionamento
