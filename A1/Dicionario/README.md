@@ -20,14 +20,24 @@ passo 4: No final , o programa exibe cada item contido no dicionário
 Usuário ira informa 3 produtos
 
 produto1: goiaba
+
 preço1: 7
+
 produto2:morango
+
 preço2: 12
+
 produto3: abacaxi
+
 preço3: 10
 
+
 resultado: 
+
 Produtos cadastrados:
+
 goiaba - R$ 7.00
+
 morango - R$ 15.00
+
 abacaxi - R$ 10.00
