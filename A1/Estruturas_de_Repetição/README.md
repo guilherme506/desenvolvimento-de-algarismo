@@ -13,3 +13,7 @@ Em cada número, o programa testa:
 O programa com *WHILE* :
 
 O program começa num = 1 
+
+Enquanto num <= 100, repete
+   - para cada número sera feito um *if num % 2 == 0*
+   - caso o número corresponde ao if ele tera o resultado com print(num)
