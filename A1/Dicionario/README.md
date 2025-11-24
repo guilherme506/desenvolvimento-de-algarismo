@@ -20,10 +20,15 @@ passo 4: No final , o programa exibe cada item contido no dicionário
 Usuário ira informa 3 produtos
 
 produto 1: goiaba
+
 preço 1: 7
+
 produto 2:morango
+
 preço 2: 12
+
 produto 3: abacaxi
+
 preço 3: 10
 
 resultado: 
