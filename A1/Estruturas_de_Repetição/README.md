@@ -17,3 +17,4 @@ O program começa num = 1
 Enquanto num <= 100, repete
    - para cada número sera feito um *if num % 2 == 0*
    - caso o número corresponde ao if ele tera o resultado com print(num)
+   - o precesso irá ocorre até chegar ao  número 100
