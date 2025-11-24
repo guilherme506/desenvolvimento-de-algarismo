@@ -5,11 +5,14 @@ O exercicio proposto desse repositorio foi desenvolver um sistema simples de cad
 O sistema funciona da seguinte maneira:
 
 passo 1: Cria um Dicionário vazio:produto = {}
+
 passo 2: O usuário informa quantos produtos quer cadastrar.
+
 passo 3: De acordo com a quantidade de produto cadastrado ele ira pedir as seguintes informações para cada produto
         - Digitar o nome do produto 
         - Digitar o preço do produto 
     Obs: Apos digitar o nome e o preço dos produtos todos os valores irão ser guardados no dicionario da seguinte maneira produtos[nome] = preço
+
 passo 4: No final , o programa exibe cada item contido no dicionário 
 
 ### Exemplo 
