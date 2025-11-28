@@ -1,6 +1,6 @@
 # Tecnicas Desenvolvimento Algaritmo(UDF)
 ## Projeto Final
-O Projeto final proposto desse repositorio foi desenvolver um Sistema de verificação de idade para entrada em eventos
+O Projeto final proposto desse repositorio foi desenvolver um Sistema de verificação de idade para entrada em eventos u.ilizando todos os conceitos utilizados em aula e aprendidos nos cursos recomendado 
 
 O sistema funciona da seguinte maneira:
 
